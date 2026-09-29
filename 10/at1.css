@@ -1,0 +1,30 @@
+p {
+ 
+    color: rgb(163, 0, 0);
+    font-family: Arial, Helvetica, sans-serif
+
+}
+h3{
+color: rgb(20, 0, 90);
+    font-size: 2rem;
+
+}
+.destaque{
+
+
+    font-weight: bold;
+    
+
+}
+.itali{
+
+font-style: italic;
+
+
+}
+p ::first-letter{
+
+color: rgb(123, 5, 219);
+}
+
+
