@@ -1,0 +1,13 @@
+h1::before{
+content: "* ";
+
+}
+
+p::after{
+
+content: "";
+display: block;
+border-bottom: 1px rgb(0, 195, 255);
+
+
+}
